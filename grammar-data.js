@@ -1236,7 +1236,7 @@ const GRAMMAR_SECTIONS = [
         <p>Compare the following:</p>
         <p style="margin-left:0.8rem">
         <span class="th-particle">ฉันมีความสุข chǎn mee kwaam sùk</span> → I'm happy. <em>(general emotional state)</em><br>
-        <span class="th-particle">ฉันมีความสุขกับชีวิต chăn mee kwaam sùk gàp chee-wít</span> → I'm happy with my life. <em>(overall satisfaction)</em><br>
+        <span class="th-particle">ฉันมีความสุขกับชีวิตของฉัน chăn mee kwaam sùk gàp chee-wít kŏng chăn</span> → I'm happy with my life. <em>(overall satisfaction)</em><br>
         <span class="th-particle">ดีใจที่ได้เจอคุณ dee jai têe dâai jer kun</span> → I'm glad to meet you. <em>(reaction to a specific event)</em>
         </p>
         <p>The same distinction exists with sadness.</p>
@@ -1246,7 +1246,7 @@ const GRAMMAR_SECTIONS = [
         <p style="margin-left:0.8rem">
         <span class="th-particle">ฉันเศร้า chǎn sâo</span> → I'm sad. <em>(general emotional state)</em><br>
         <span class="th-particle">เขาดูเศร้า kăo doo sâo</span> → He looks sad. <em>(describing a mood)</em><br>
-        <span class="th-particle">เสียใจที่สอบตก sĭa jai têe sòp dtòk</span> → I'm disappointed that I failed the exam. <em>(reaction to a specific event)</em>
+        <span class="th-particle">ผมเสียใจที่ผมสอบตก pŏm sĭa jai têe pŏm sòp dtòk</span> → I'm sad/disappointed that I failed the exam. <em>(reaction to a specific event)</em>
         </p>
         <p>A useful shortcut is to think of <span class="th-particle">ดีใจ dee jai</span> and <span class="th-particle">เสียใจ sǐa jai</span> as emotional reactions, while <span class="th-particle">มีความสุข mee kwaam sùk</span> and <span class="th-particle">เศร้า sâo</span> describe a person's general emotional state.</p>
         <p style="margin-left:0.8rem">
